@@ -70,7 +70,6 @@ package-lock.json
 
 .parcel-cache
 
-JAVA_SCRIPT/trainings.html
-JAVA_SCRIPT/trainings.js
 
-JAVA_SCRIPT/Calculator/
+Trainings/
+Calc/
